@@ -1,4 +1,4 @@
-phonetic model is model for the grocery items, fruits, vegitables and so on . when we use the phonetic name of the product as input, model will give output as the product name.
+Phonetic model is model for the grocery items, fruits, vegitables and so on . when we use the phonetic name of the product as input, model will give output as the product name.
 The accuracy of the model is 79.5%.
 _________________________________________
 Example:
